@@ -1,5 +1,0 @@
-{{#user}}
-Name: Nikhil 
-Skills: HTML, CSS, JS, NodeJs, express.js, flutter,dart, python
-Email: nikhil4040k@gmail.com
-{{/user}}
